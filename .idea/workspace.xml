@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9c019e6-8a80-40c9-9274-3544831c779d" name="Default Changelist" comment="提交一个中" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/Java" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="23sFrgD72RwaGf0FHui71IjCK74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9c019e6-8a80-40c9-9274-3544831c779d" name="Default Changelist" comment="" />
+      <created>1642515087252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642515087252</updated>
+      <workItem from="1642515088288" duration="82000" />
+      <workItem from="1642515183153" duration="890000" />
+      <workItem from="1642516085183" duration="1289000" />
+      <workItem from="1642521121129" duration="943000" />
+      <workItem from="1642525910091" duration="73000" />
+    </task>
+    <task id="LOCAL-00001" summary="尝试提交12">
+      <created>1642515600216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642515600216</updated>
+    </task>
+    <task id="LOCAL-00002" summary="尝试提交121111">
+      <created>1642516336835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642516336835</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交一个中文">
+      <created>1642521622623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642521622623</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="尝试提交" />
+    <MESSAGE value="尝试提交12" />
+    <MESSAGE value="尝试提交121111" />
+    <MESSAGE value="提交一个中文" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交一个中文" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="907" y="538" key="#Other_File_Types" timestamp="1642525957098">
+      <screen x="0" y="27" width="2160" height="1348" />
+    </state>
+    <state x="907" y="538" key="#Other_File_Types/0.27.2160.1348/2160.0.1920.1080@0.27.2160.1348" timestamp="1642525957098" />
+    <state x="798" y="493" width="618" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642516306136">
+      <screen x="0" y="27" width="2160" height="1348" />
+    </state>
+    <state x="798" y="493" width="618" height="414" key="#com.intellij.fileTypes.FileTypeChooser/0.27.2160.1348/2160.0.1920.1080@0.27.2160.1348" timestamp="1642516306136" />
+    <state x="561" y="335" key="SettingsEditor" timestamp="1642525983155">
+      <screen x="0" y="27" width="2160" height="1348" />
+    </state>
+    <state x="561" y="335" key="SettingsEditor/0.27.2160.1348/2160.0.1920.1080@0.27.2160.1348" timestamp="1642525983155" />
+    <state x="675" y="434" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1642521630111">
+      <screen x="0" y="27" width="2160" height="1348" />
+    </state>
+    <state x="675" y="434" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.2160.1348/2160.0.1920.1080@0.27.2160.1348" timestamp="1642521630111" />
+    <state x="859" y="610" width="431" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642521915248">
+      <screen x="0" y="27" width="2160" height="1348" />
+    </state>
+    <state x="859" y="610" width="431" height="180" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.2160.1348/2160.0.1920.1080@0.27.2160.1348" timestamp="1642521915248" />
+    <state x="805" y="607" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1642515135854">
+      <screen x="0" y="27" width="2160" height="1348" />
+    </state>
+    <state x="805" y="607" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.2160.1348/2160.0.1920.1080@0.27.2160.1348" timestamp="1642515135854" />
+  </component>
+</project>
