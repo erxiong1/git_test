@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 afdhsahfdsahfdashha
+=======
+dsafdas
+>>>>>>> 27f39ca361fd7df6f2081a5347c87ebbf27d1f4b
 
